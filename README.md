@@ -1,16 +1,4 @@
-# flappy_bird_app
+# Flutter Flappy Bird App
+A fun and simple game built with flutter. Just tap the screen to make the bird leap and dodge the obstacles. Stay focused and keep playing to rack up your score, which increases the longer you survive. Your highest score will always be displayed on the screen—challenge yourself to beat it!
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
